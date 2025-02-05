@@ -5,3 +5,5 @@ langchain_openai
 python-dotenv
 langchain_community
 chromadb
+yfinance
+duckduckgo-search
